@@ -70,5 +70,8 @@ Voici justement Bill Vorn qui répare son installation
 
 ![Bill Vorn](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/3ced844532493781239b6f6da7696a0ad5ba524e/BIAN_CMS/medias/Bill_Vorn.jpeg)
 
+<br>
+
 **Sites web consulté**
+
 [billvorn.concordia.ca/](billvorn.concordia.ca/)
