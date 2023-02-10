@@ -15,9 +15,9 @@ Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
 **Mise en place**
 
-L'installation qui occupe un grand espace dans le coin de l'exposition se présente comme une grande structure de scène métallique à laquelle sont suspendue des robots. Lorsque l'installation est active, les robots prennent vie et danse sur différents types de musique, accompagné par l'éclairage de scène. Des lumières LED sont également présente sur les robots et suivent les mouvements et la musique. *La performance est conçue de façon à ce qu’elle puisse être configurée à la fois pour une scène à l’italienne plus traditionnelle ou pour une présentation centrale au centre d’un public debout et plus actif.* (Source: [billvorn.concordia.ca/](billvorn.concordia.ca/)) 
+L'installation qui occupe un grand espace dans le coin de l'exposition se présente comme une grande structure de scène métallique à laquelle sont suspendue des robots. Lorsque l'installation est active, les robots prennent vie et dansent sur différents types de musique, accompagnés par l'éclairage de scène. Des lumières LED sont également présentes sur les robots et suivent les mouvements et la musique. *La performance est conçue de façon à ce qu’elle puisse être configurée à la fois pour une scène à l’italienne plus traditionnelle ou pour une présentation centrale au centre d’un public debout et plus actif.* (Source: [billvorn.concordia.ca/](billvorn.concordia.ca/)) Cette oeuvre immersive dure 15 minutes et est présentée 3 fois par jour.
 
-![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/oeuvre_en_action_01.jpeg)
+![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/oeuvre_action_01.jpeg)
 
 **L'oeuvre dans l'espace**
 ![Expo](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/expo.jpeg)
@@ -34,7 +34,7 @@ Liste des composantes fonctionnelles:
 - Éclairage LED  et miroirs: Lumière sur les robots.
 - Projecteur lumière : Éclairage général et ambiance.
 - Système de son : Musique et ambiance.
-<img src="https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/oeuvre_en_action_02.jpeg" width="50%">
+<img src="https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/oeuvre_action_02.jpeg" width="50%">
 
 - Ordinateur : Gérer le code qui permet à l'oeuvre de bouger.
 
