@@ -15,7 +15,7 @@ Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
 **Mise en place**
 
-L'installation qui prend la majorité de l'espace se présente comme une boite avec quatre murs en bois. Elle comporte deux ouvertures pour permettre au public d'entrer et de ressortir en suivant le chemin qui les dirige vers les autres oeuvres. Étant un installation qui mise sur l'apect sonore, il n'y a pas grand chose à regarder. Par contre, dès qu'on y entre, on est plongé dans un atmosph<ere sonore qui évoque des bruits d'eau, de nature, de grottes, etc. L'interacteur est invité à s'approcher des murs et à y coller son oreille pour découvrir plus en profondeur les sons qui y s'en absorbé. En effet, les sons sont transmis au travers des murs pas les transducteurs. L'inclinaison des murs a pour effet d'éviter de faire rebondir trop les sons dans la piece et donc avoir un son plus précis. On peut même profiter de l'expérience à l'extérieur de l'espace puisque certaines fréquences s'étendent pour englober les autres oeuvres.
+L'installation qui occupe un grand espace dans le coin de l'exposition se présente comme une grande structure de scène métallique à laquelle sont suspendue des robots. Lorsque l'installation est active, les robots prennent vie et danse sur différents types de musique, accompagné par l'éclairage de scène. Des lumières LED sont également présente sur les robots et suivent les mouvements et la musique. *La performance est conçue de façon à ce qu’elle puisse être configurée à la fois pour une scène à l’italienne plus traditionnelle ou pour une présentation centrale au centre d’un public debout et plus actif.* (Source: [billvorn.concordia.ca/](billvorn.concordia.ca/)) 
 
 ![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/oeuvre_en_action_01.jpeg)
 
@@ -40,13 +40,13 @@ Liste des composantes fonctionnelles:
 
 **Autre éléments nécessaire**
 
-Liste des autres éléments nécessaire: 
+Liste des autres éléments nécessaires: 
 
 - Structure métalique.
-- Cables métallique pour accrocher le robots.
+- Cables métalliques pour accrocher le robots.
 
 **Expérience**
 
 ❤️ - Les chorégraphies des robots sont dynamiques et attirent l'oeil rapidement. Le combo musique et lumière offre une ambiance enrobante qui entre l'interacteur dans le spectacle.
   
-🤔 - Lorsque l'oeuvre est active, elle écrase tout le reste de l'exposition puisqu'elle est très bruyante. C'est pour cette raison qu'elle n'est active que quelque fois par jour. Dû à la nature robotique et très dynamique de l'oeuvre elle doit être réparée très souvent et serait difficile èa déplacer.
+🤔 - Lorsque l'oeuvre est active, elle écrase tout le reste de l'exposition puisqu'elle est très bruyante. C'est pour cette raison qu'elle n'est active que quelque fois par jour. Dû à la nature robotique et très dynamique de l'oeuvre elle doit être réparée très souvent et serait difficile à déplacer.
