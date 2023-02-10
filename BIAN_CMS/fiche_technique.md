@@ -50,3 +50,9 @@ Liste des autres éléments nécessaires:
 ❤️ - Les chorégraphies des robots sont dynamiques et attirent l'oeil rapidement. Le combo musique et lumière offre une ambiance enrobante qui entre l'interacteur dans le spectacle.
   
 🤔 - Lorsque l'oeuvre est active, elle écrase tout le reste de l'exposition puisqu'elle est très bruyante. C'est pour cette raison qu'elle n'est active que quelque fois par jour. Dû à la nature robotique et très dynamique de l'oeuvre elle doit être réparée très souvent et serait difficile à déplacer.
+
+**Point bonus**
+
+Voici justement Bill Vorn qui répare son installation
+
+![Bill Vorn](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/3ced844532493781239b6f6da7696a0ad5ba524e/BIAN_CMS/medias/Bill_Vorn.jpeg)
