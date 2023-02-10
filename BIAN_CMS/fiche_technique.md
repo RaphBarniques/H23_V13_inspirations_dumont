@@ -1,5 +1,5 @@
 # Copacabana Machine Sex
-*Béchard-Hudon, 2018*
+*Bill Vorn, 2018*
 
 Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
