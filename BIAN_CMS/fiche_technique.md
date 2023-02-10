@@ -15,7 +15,7 @@ L'installation qui prend la majorité de l'espace se présente comme une boite a
 
 ![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/oeuvre_en_action_01.jpeg)
 
-**L'oeuvre dans l'espace
+** L'oeuvre dans l'espace
 ![Expo](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/expo.jpeg)
 
 
