@@ -5,7 +5,7 @@ Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
 ## L'oeuvre
 
-** Regardez un extrait **
+**Regardez un extrait**
 
 [![Copacabana Machine Sex Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1676046589/video_to_markdown/images/youtube--5rS2ivMbTLo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5rS2ivMbTLo "Copacabana Machine Sex Demo")
 
