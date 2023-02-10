@@ -51,7 +51,7 @@ Liste des autres éléments nécessaires:
   
 🤔 - Lorsque l'oeuvre est active, elle écrase tout le reste de l'exposition puisqu'elle est très bruyante. C'est pour cette raison qu'elle n'est active que quelque fois par jour. Dû à la nature robotique et très dynamique de l'oeuvre elle doit être réparée très souvent et serait difficile à déplacer.
 
-
+<br>
 
 **Point bonus**
 
