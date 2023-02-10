@@ -26,6 +26,7 @@ L'installation qui occupe un grand espace dans le coin de l'exposition se prése
 ![Installation](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/995f2d64a84a9fff588a37ca0dca91efc008c2d5/BIAN_CMS/medias/oeuvre_action_01.jpeg)
 
 **L'oeuvre dans l'espace**
+
 ![Expo](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/expo.jpeg)
 
 <br>
