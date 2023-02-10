@@ -10,6 +10,7 @@ Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
 *"Copacabana Machine Sex est une performance robotique musicale et burlesque de 30 minutes n’impliquant seulement que des machines comme musiciens et danseurs. Notre but n’est pas d’imiter un véritable music hall, mais de proposer une réponse métaphorique extravagante en réponse à la question: “que se passerait-il si des machines occupaient la scène d’un cabaret?” Au niveau esthétique, la pièce est un étrange mélange hybride entre le kitsch classique de Broadway et le côté plus sombre et industriel de nos précédents travaux. Comme dans la plupart de nos réalisations, il s’agit d’une exploration des formes et des mouvements robotiques à travers la musique, le son et la lumière."* - Source: Cartel de l'exposition
 
+
 ![Cartel](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/cartel.jpeg)
 
 **Mise en place**
@@ -32,7 +33,7 @@ Liste des composantes fonctionnelles:
 - Éclairage LED  et miroirs: Lumièere sur les robots.
 - Projecteur lumière : Éclairage général et ambiance.
 - Système de son : Musique et ambiance.
-![Son et lumière](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/oeuvre_en_action_02.jpeg)
+<img src="https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/oeuvre_en_action_02.jpeg" width="50%">
 - Ordinateur : Gérer le code qui permet èa l'oeuvre de bouger.
 
 **Autre éléments nécessaire**
