@@ -2,6 +2,7 @@
 *Bill Vorn, 2018*
 
 Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
+Exposition temporaire, intérieure, immersive
 
 ## L'oeuvre
 
