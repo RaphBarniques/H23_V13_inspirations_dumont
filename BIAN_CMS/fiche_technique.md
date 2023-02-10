@@ -27,7 +27,7 @@ L'installation qui prend la majorité de l'espace se présente comme une boite a
 Liste des composantes fonctionnelles:
 
 - Compresseur à air, tubes, pistons : Assure le mouvement général des robots.
-![Jambes et pistons](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/jambes.jpeg)
+<img src="https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/jambes.jpeg" width="50%">
 - Moteur : Assure le mouvement de certaines parties des robots.
 - Éclairage LED  et miroirs: Lumièere sur les robots.
 - Projecteur lumière : Éclairage général et ambiance.
