@@ -9,9 +9,13 @@ Biennale d'art numérique - Mutation, L'Arsenal, visitée le 3 février 2023.
 
 [![Copacabana Machine Sex Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1676046589/video_to_markdown/images/youtube--5rS2ivMbTLo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5rS2ivMbTLo "Copacabana Machine Sex Demo")
 
+<br>
+
 *"Copacabana Machine Sex est une performance robotique musicale et burlesque de 30 minutes n’impliquant seulement que des machines comme musiciens et danseurs. Notre but n’est pas d’imiter un véritable music hall, mais de proposer une réponse métaphorique extravagante en réponse à la question: “que se passerait-il si des machines occupaient la scène d’un cabaret?” Au niveau esthétique, la pièce est un étrange mélange hybride entre le kitsch classique de Broadway et le côté plus sombre et industriel de nos précédents travaux. Comme dans la plupart de nos réalisations, il s’agit d’une exploration des formes et des mouvements robotiques à travers la musique, le son et la lumière."* - Source: Cartel de l'exposition
 
 <img src="https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/ccfd7fcdea47c005da881d4f3c8edecd6d80783c/BIAN_CMS/medias/cartel.jpeg" width="50%">
+
+<br>
 
 **Mise en place**
 
@@ -22,6 +26,7 @@ L'installation qui occupe un grand espace dans le coin de l'exposition se prése
 **L'oeuvre dans l'espace**
 ![Expo](https://github.com/RaphBarniques/portfolio_dumont_raphael/blob/78f1d6f5e884180cfa7224174f69b72a7c77de92/BIAN_CMS/medias/expo.jpeg)
 
+<br>
 
 **Composantes**
 
@@ -44,6 +49,8 @@ Liste des autres éléments nécessaires:
 
 - Structure métalique.
 - Cables métalliques pour accrocher le robots.
+
+<br>
 
 **Expérience**
 
